@@ -1,4 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+	Business as Usual
+</title>
+<meta name="description" content=
+	"Leaderboard for the 'Business as Usual' escape box">
+</title>
+</head>
+<body>
 <a href="index.html">
 <h2>
 <i>
@@ -15,3 +25,5 @@
 <ol>
 <li>
 	Adam: 42:42
+</body>
+</html>
